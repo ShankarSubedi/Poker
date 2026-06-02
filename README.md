@@ -5,5 +5,3 @@ The project was done using Linux filesystem, for the ease of building, use a lin
 
 <h3> Description </h3>
 Texas Holdem Poker game as a part of Our Object Oriented Programing Project written in C++
-<h3> Building </h3>
-Comming Soon
